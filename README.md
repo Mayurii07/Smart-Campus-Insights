@@ -107,7 +107,7 @@ smart-campus-insights-main/
 
 
 ## 👩‍💻 **Author**
-**Mayurii07** - 
+**Mayurii07** 
 
 ---
 
