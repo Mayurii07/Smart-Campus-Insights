@@ -1,10 +1,10 @@
-# 🌟 Smart Campus Insights - AI-Powered Campus Analytics Dashboard
+<img width="1800" height="977" alt="image" src="https://github.com/user-attachments/assets/5d693a41-c8f7-421a-9057-45c0137bd094" /># 🌟 Smart Campus Insights - AI-Powered Campus Analytics Dashboard
 
 **Transform raw campus data into actionable insights with beautiful visualizations and ML predictions!**
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![Streamlit App](https://static.streamlit.io/badges/featured.svg)](https://share.streamlit.io/)
+
 
 ## ✨ Features
 
@@ -37,22 +37,9 @@
 ## 🖼️ Screenshots / Demo
 
 ### 📱 Dashboard Overview
-*(Add screenshot: Main dashboard with sidebar filters)*
+<img width="1800" height="977" alt="image" src="https://github.com/user-attachments/assets/b87ffafb-1750-48c5-a24c-2b703777e752" />
 
-### 📊 Attendance Trends
-```
-[Placeholder for line chart screenshot]
-```
 
-### 🎓 Event Stats
-```
-[Placeholder for bar chart screenshot]
-```
-
-### 🤖 ML Prediction
-```
-[Placeholder for prediction interface screenshot]
-```
 
 ## 📋 **Dataset Overview**
 
@@ -92,16 +79,8 @@ pip install -r requirements.txt
 streamlit run smart_campus_insights_app.py
 ```
 
-**App opens at: `http://localhost:8501`**
+**App ( Dashboard ) opens at: `[http://localhost:8501](https://smart-campus-insights-agtbsnixhwxeucvazebtq6.streamlit.app/)`**
 
-## ☁️ **Deploy to Streamlit Cloud (Hosted)**
-
-1. Fork/Use this repo on GitHub
-2. Visit [share.streamlit.io](https://share.streamlit.io/)
-3. Sign in with GitHub
-4. **New app** → Select `Smart-Campus-Insights` repo
-5. Set **Main file path**: `smart_campus_insights_app.py`
-6. **Deploy!** Get instant shareable URL like `https://yourcampus.streamlit.app`
 
 ## 🔍 **App Structure**
 
@@ -146,15 +125,6 @@ smart-campus-insights-main/
 - **Event Coordinators** - Measure participation
 - **Data Analysts** - Campus health metrics
 
-## 🤝 **Contributing**
-1. Fork the repo
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
-## 📄 **License**
-MIT License - Free to use, modify, and deploy!
 
 ## 👩‍💻 **Author**
 **Mayurii07** - Campus Data Enthusiast
