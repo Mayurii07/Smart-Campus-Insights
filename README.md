@@ -1,10 +1,11 @@
-<img width="1800" height="977" alt="image" src="https://github.com/user-attachments/assets/5d693a41-c8f7-421a-9057-45c0137bd094" /># 🌟 Smart Campus Insights - AI-Powered Campus Analytics Dashboard
+
 
 **Transform raw campus data into actionable insights with beautiful visualizations and ML predictions!**
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 
+<img width="1800" height="977" alt="image" src="https://github.com/user-attachments/assets/5d693a41-c8f7-421a-9057-45c0137bd094" /># 🌟 Smart Campus Insights - AI-Powered Campus Analytics Dashboard
 
 ## ✨ Features
 
@@ -59,27 +60,6 @@ scikit-learn        # ML Decision Tree Classifier
 openpyxl            # Excel file reader
 ```
 
-## 🚀 **Quick Start (Local)**
-
-```bash
-# 1. Clone/Download repo
-git clone https://github.com/Mayurii07/Smart-Campus-Insights.git
-cd Smart-Campus-Insights
-
-# 2. Setup virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# or
-venv\\Scripts\\activate  # Windows
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the app
-streamlit run smart_campus_insights_app.py
-```
-
-**App ( Dashboard ) opens at: `[http://localhost:8501](https://smart-campus-insights-agtbsnixhwxeucvazebtq6.streamlit.app/)`**
 
 
 ## 🔍 **App Structure**
@@ -127,10 +107,9 @@ smart-campus-insights-main/
 
 
 ## 👩‍💻 **Author**
-**Mayurii07** - Campus Data Enthusiast
+**Mayurii07** - 
 
 ---
 
 ⭐ **Star this repo if you found it useful!** 🚀
 
-**Deploy your own copy now: [Streamlit Cloud](https://share.streamlit.io/)**
